@@ -2,7 +2,7 @@
 # This is a flask app to show company information
 
 **How to use:**
-![This is an image](https://s3.us-east-1.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/1626360541__Screen%20Shot%202021-07-15%20at%209.18.37%20AM.png)
+
 1. Download the file and unzip it
 2. Open MySQL Workbench and create a new schemas named *"company_schema"*
 3. Open the configuration file at *company_list\flask_app\config\mysqlconnection.py* and modify user and password to match your local database at line 6 and line 7
