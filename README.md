@@ -4,8 +4,8 @@
 **How to use:**
 
 1. Download the file and unzip it
-2. Open MySQL Workbench and create a new schemas named *"company_schema"*
-3. Open 
+2. Open MySQL Workbench and create a new schemas named *"company_schema".*
+3. Open companies.mwb with MySQL and implement front engineer to build up local database.
 4. Open the configuration file at *company_list\flask_app\config\mysqlconnection.py* and modify user and password to match your local database at line 6 and line 7
 5. Open the terminal, and type *"cd [unzipped folder's path]"*
 6. Check whether your PC is equipped with *"pipenv"*. If not, you can google it. There are many methods to install *"pip"* and *"pipenv"* on the Internet.
